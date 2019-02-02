@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start-xyj": "ng serve --host 172.16.4.76 --port 4210",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
